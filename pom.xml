@@ -11,8 +11,8 @@
 		<maven.compiler.target>17</maven.compiler.target>
 		<maven.compiler.source>17</maven.compiler.source>
 
-		<dependency.jackson-core.version>2.13.2</dependency.jackson-core.version>
-		<dependency.jackson-databind.version>2.13.2.2</dependency.jackson-databind.version>
+		<dependency.jackson-core.version>2.13.3</dependency.jackson-core.version>
+		<dependency.jackson-databind.version>2.13.3</dependency.jackson-databind.version>
 	</properties>
 
 	<modules>
